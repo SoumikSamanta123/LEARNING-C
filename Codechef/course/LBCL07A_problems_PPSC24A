@@ -1,0 +1,12 @@
+//Try printing the sum of 21 and 40
+#include <stdio.h>
+
+int main(void) {
+	// your code goes here
+
+    int a = 21;
+    int b = 40;
+    printf("%d", a + b);
+    
+    return 0;
+}
